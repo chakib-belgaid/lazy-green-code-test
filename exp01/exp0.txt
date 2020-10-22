@@ -1,0 +1,112 @@
+workers,1,1
+
+ Performance counter stats for 'system wide':
+
+          1,085.00 Joules power/energy-pkg/                                           
+            908.52 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.303652246 seconds time elapsed
+
+workers,1,2
+
+ Performance counter stats for 'system wide':
+
+          1,090.80 Joules power/energy-pkg/                                           
+            912.56 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.432862051 seconds time elapsed
+
+workers,1,3
+
+ Performance counter stats for 'system wide':
+
+          1,081.66 Joules power/energy-pkg/                                           
+            903.54 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.220550641 seconds time elapsed
+
+workers,1,4
+
+ Performance counter stats for 'system wide':
+
+          1,121.73 Joules power/energy-pkg/                                           
+            942.96 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      47.971600307 seconds time elapsed
+
+workers,1,5
+
+ Performance counter stats for 'system wide':
+
+          1,134.14 Joules power/energy-pkg/                                           
+            954.54 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.082645878 seconds time elapsed
+
+workers,1,6
+
+ Performance counter stats for 'system wide':
+
+          1,154.36 Joules power/energy-pkg/                                           
+            974.04 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.230594257 seconds time elapsed
+
+workers,1,7
+
+ Performance counter stats for 'system wide':
+
+          1,226.99 Joules power/energy-pkg/                                           
+          1,044.69 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.332919354 seconds time elapsed
+
+workers,1,8
+
+ Performance counter stats for 'system wide':
+
+          1,244.40 Joules power/energy-pkg/                                           
+          1,061.30 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.296413340 seconds time elapsed
+
+workers,1,9
+Traceback (most recent call last):
+  File "/home/spirals/lazy-green-code-test/exp01/graph-coloration.py", line 124, in <module>
+    main()
+  File "/home/spirals/lazy-green-code-test/exp01/graph-coloration.py", line 120, in main
+    color(graph, max_colors)
+  File "/home/spirals/lazy-green-code-test/exp01/graph-coloration.py", line 100, in color
+    if util_color(graph, max_colors, colored_vertices, 0):
+  File "/home/spirals/lazy-green-code-test/exp01/graph-coloration.py", line 74, in util_color
+    if util_color(graph, max_colors, colored_vertices, index + 1):
+  File "/home/spirals/lazy-green-code-test/exp01/graph-coloration.py", line 74, in util_color
+    if util_color(graph, max_colors, colored_vertices, index + 1):
+  File "/home/spirals/lazy-green-code-test/exp01/graph-coloration.py", line 74, in util_color
+    if util_color(graph, max_colors, colored_vertices, index + 1):
+  [Previous line repeated 98 more times]
+  File "/home/spirals/lazy-green-code-test/exp01/graph-coloration.py", line 70, in util_color
+    if valid_coloring(graph[index], colored_vertices, i):
+  File "/home/spirals/lazy-green-code-test/exp01/graph-coloration.py", line 28, in valid_coloring
+    return not any(
+  File "/home/spirals/lazy-green-code-test/exp01/graph-coloration.py", line 28, in <genexpr>
+    return not any(
+KeyboardInterrupt
+python: Interrupt
+
+ Performance counter stats for 'system wide':
+
+            210.20 Joules power/energy-pkg/                                           
+            179.50 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+       8.129593598 seconds time elapsed
+

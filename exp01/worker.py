@@ -37,7 +37,7 @@ def main():
     cpu_count = int(sys.argv[1])
     loop , sleepduration = levels[int(argv[2])]
     for i in range(cpu_count):
-        x = multiprocessing.Process(target=worker, args=[sleepduration, loop])
+        x = multiprocessing.Process(target=worker, args=[sleepduration, loop], daemon=False)
         x.start()
 
 

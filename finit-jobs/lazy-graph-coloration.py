@@ -121,7 +121,7 @@ def watcher(process):
         time.sleep(0.0001)
 
 def main():
-    size = 110
+    size = 106
     max_colors = 20
     graph = generate_graph(size)
 
