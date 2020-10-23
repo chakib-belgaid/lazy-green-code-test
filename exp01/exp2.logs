@@ -15794,3 +15794,1007 @@ workers,4,12,10
 workers,5,1,10
 1603360517
 1603360522
+
+ Performance counter stats for 'system wide':
+
+           1175.76 Joules power/energy-pkg/                                           
+            989.71 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.308128019 seconds time elapsed
+
+1603360571
+--------------------------------------
+workers,5,2,10
+1603360574
+1603360579
+
+ Performance counter stats for 'system wide':
+
+           1156.40 Joules power/energy-pkg/                                           
+            971.64 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.513732938 seconds time elapsed
+
+1603360627
+--------------------------------------
+workers,5,3,10
+1603360630
+1603360635
+
+ Performance counter stats for 'system wide':
+
+           1170.68 Joules power/energy-pkg/                                           
+            985.35 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.953555038 seconds time elapsed
+
+1603360684
+--------------------------------------
+workers,5,4,10
+1603360687
+1603360692
+
+ Performance counter stats for 'system wide':
+
+           1203.01 Joules power/energy-pkg/                                           
+           1020.61 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.241762027 seconds time elapsed
+
+1603360741
+--------------------------------------
+workers,5,5,10
+1603360744
+1603360749
+
+ Performance counter stats for 'system wide':
+
+           1239.78 Joules power/energy-pkg/                                           
+           1056.93 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.355802762 seconds time elapsed
+
+1603360797
+--------------------------------------
+workers,5,6,10
+1603360800
+1603360805
+
+ Performance counter stats for 'system wide':
+
+           1345.53 Joules power/energy-pkg/                                           
+           1161.22 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.455019482 seconds time elapsed
+
+1603360854
+--------------------------------------
+workers,5,7,10
+1603360857
+1603360862
+
+ Performance counter stats for 'system wide':
+
+           1624.10 Joules power/energy-pkg/                                           
+           1433.14 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      49.447061273 seconds time elapsed
+
+1603360911
+--------------------------------------
+workers,5,8,10
+1603360914
+1603360919
+
+ Performance counter stats for 'system wide':
+
+           1740.07 Joules power/energy-pkg/                                           
+           1544.30 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      50.125260586 seconds time elapsed
+
+1603360969
+--------------------------------------
+workers,5,9,10
+1603360972
+1603360978
+
+ Performance counter stats for 'system wide':
+
+           1888.73 Joules power/energy-pkg/                                           
+           1690.21 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      50.413973760 seconds time elapsed
+
+1603361028
+--------------------------------------
+workers,5,10,10
+1603361031
+1603361036
+
+ Performance counter stats for 'system wide':
+
+           1987.73 Joules power/energy-pkg/                                           
+           1774.13 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      53.839700619 seconds time elapsed
+
+1603361090
+--------------------------------------
+workers,5,11,10
+1603361093
+1603361098
+
+ Performance counter stats for 'system wide':
+
+           1990.63 Joules power/energy-pkg/                                           
+           1768.68 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      55.833498619 seconds time elapsed
+
+1603361154
+--------------------------------------
+workers,5,12,10
+1603361157
+1603361162
+
+ Performance counter stats for 'system wide':
+
+           3386.77 Joules power/energy-pkg/                                           
+           2890.76 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     128.049353343 seconds time elapsed
+
+1603361290
+--------------------------------------
+workers,6,1,10
+1603361293
+1603361298
+
+ Performance counter stats for 'system wide':
+
+           1147.39 Joules power/energy-pkg/                                           
+            963.18 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.333918446 seconds time elapsed
+
+1603361346
+--------------------------------------
+workers,6,2,10
+1603361349
+1603361354
+
+ Performance counter stats for 'system wide':
+
+           1175.33 Joules power/energy-pkg/                                           
+            989.10 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      49.256696524 seconds time elapsed
+
+1603361404
+--------------------------------------
+workers,6,3,10
+1603361407
+1603361412
+
+ Performance counter stats for 'system wide':
+
+           1202.96 Joules power/energy-pkg/                                           
+           1017.09 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      49.224589907 seconds time elapsed
+
+1603361461
+--------------------------------------
+workers,6,4,10
+1603361464
+1603361469
+
+ Performance counter stats for 'system wide':
+
+           1253.22 Joules power/energy-pkg/                                           
+           1065.46 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      49.758854133 seconds time elapsed
+
+1603361519
+--------------------------------------
+workers,6,5,10
+1603361522
+1603361527
+
+ Performance counter stats for 'system wide':
+
+           1323.26 Joules power/energy-pkg/                                           
+           1129.01 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      50.646749189 seconds time elapsed
+
+1603361578
+--------------------------------------
+workers,6,6,10
+1603361581
+1603361586
+
+ Performance counter stats for 'system wide':
+
+           1442.31 Joules power/energy-pkg/                                           
+           1254.88 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      49.126378645 seconds time elapsed
+
+1603361635
+--------------------------------------
+workers,6,7,10
+1603361638
+1603361643
+
+ Performance counter stats for 'system wide':
+
+           1831.48 Joules power/energy-pkg/                                           
+           1623.62 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      53.629916995 seconds time elapsed
+
+1603361697
+--------------------------------------
+workers,6,8,10
+1603361700
+1603361705
+
+ Performance counter stats for 'system wide':
+
+           2108.05 Joules power/energy-pkg/                                           
+           1878.64 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      58.843441918 seconds time elapsed
+
+1603361764
+--------------------------------------
+workers,6,9,10
+1603361767
+1603361772
+
+ Performance counter stats for 'system wide':
+
+           2360.11 Joules power/energy-pkg/                                           
+           2110.08 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      63.279402445 seconds time elapsed
+
+1603361835
+--------------------------------------
+workers,6,10,10
+1603361838
+1603361843
+
+ Performance counter stats for 'system wide':
+
+           2392.12 Joules power/energy-pkg/                                           
+           2133.68 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      65.108815773 seconds time elapsed
+
+1603361908
+--------------------------------------
+workers,6,11,10
+1603361911
+1603361916
+
+ Performance counter stats for 'system wide':
+
+           2376.96 Joules power/energy-pkg/                                           
+           2099.78 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      69.974348917 seconds time elapsed
+
+1603361986
+--------------------------------------
+workers,6,12,10
+1603361989
+1603361994
+
+ Performance counter stats for 'system wide':
+
+           3623.77 Joules power/energy-pkg/                                           
+           3136.87 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     124.286265092 seconds time elapsed
+
+1603362119
+--------------------------------------
+workers,7,1,10
+1603362122
+1603362127
+
+ Performance counter stats for 'system wide':
+
+           1178.06 Joules power/energy-pkg/                                           
+            989.43 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      49.388252047 seconds time elapsed
+
+1603362176
+--------------------------------------
+workers,7,2,10
+1603362179
+1603362184
+
+ Performance counter stats for 'system wide':
+
+           1249.97 Joules power/energy-pkg/                                           
+           1056.48 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      50.807864997 seconds time elapsed
+
+1603362235
+--------------------------------------
+workers,7,3,10
+1603362238
+1603362243
+
+ Performance counter stats for 'system wide':
+
+           1226.28 Joules power/energy-pkg/                                           
+           1036.86 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      50.189670267 seconds time elapsed
+
+1603362293
+--------------------------------------
+workers,7,4,10
+1603362296
+1603362301
+
+ Performance counter stats for 'system wide':
+
+           1311.12 Joules power/energy-pkg/                                           
+           1116.42 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      51.522606460 seconds time elapsed
+
+1603362353
+--------------------------------------
+workers,7,5,10
+1603362356
+1603362361
+
+ Performance counter stats for 'system wide':
+
+           1395.15 Joules power/energy-pkg/                                           
+           1195.17 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      52.770203599 seconds time elapsed
+
+1603362414
+--------------------------------------
+workers,7,6,10
+1603362417
+1603362422
+
+ Performance counter stats for 'system wide':
+
+           1729.45 Joules power/energy-pkg/                                           
+           1508.50 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      57.697925027 seconds time elapsed
+
+1603362480
+--------------------------------------
+workers,7,7,10
+1603362483
+1603362488
+
+ Performance counter stats for 'system wide':
+
+           2484.74 Joules power/energy-pkg/                                           
+           2216.21 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      68.906220185 seconds time elapsed
+
+1603362557
+--------------------------------------
+workers,7,8,10
+1603362560
+1603362565
+
+ Performance counter stats for 'system wide':
+
+           2684.69 Joules power/energy-pkg/                                           
+           2395.48 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      73.579378924 seconds time elapsed
+
+1603362638
+--------------------------------------
+workers,7,9,10
+1603362641
+1603362646
+
+ Performance counter stats for 'system wide':
+
+           3113.61 Joules power/energy-pkg/                                           
+           2772.75 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      86.064293910 seconds time elapsed
+
+1603362732
+--------------------------------------
+workers,7,10,10
+1603362735
+1603362740
+
+ Performance counter stats for 'system wide':
+
+           3562.60 Joules power/energy-pkg/                                           
+           3149.12 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     104.357237010 seconds time elapsed
+
+1603362845
+--------------------------------------
+workers,7,11,10
+1603362848
+1603362853
+
+ Performance counter stats for 'system wide':
+
+           3696.63 Joules power/energy-pkg/                                           
+           3266.89 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     108.399989044 seconds time elapsed
+
+1603362961
+--------------------------------------
+workers,7,12,10
+1603362964
+1603362969
+
+ Performance counter stats for 'system wide':
+
+           4032.31 Joules power/energy-pkg/                                           
+           3592.62 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     110.624075766 seconds time elapsed
+
+1603363080
+--------------------------------------
+workers,8,1,10
+1603363083
+1603363088
+
+ Performance counter stats for 'system wide':
+
+           1173.47 Joules power/energy-pkg/                                           
+            987.71 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.176018013 seconds time elapsed
+
+1603363136
+--------------------------------------
+workers,8,2,10
+1603363139
+1603363144
+
+ Performance counter stats for 'system wide':
+
+           1242.26 Joules power/energy-pkg/                                           
+           1048.40 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      50.842308759 seconds time elapsed
+
+1603363195
+--------------------------------------
+workers,8,3,10
+1603363198
+1603363203
+
+ Performance counter stats for 'system wide':
+
+           1281.27 Joules power/energy-pkg/                                           
+           1082.92 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      51.741437566 seconds time elapsed
+
+1603363255
+--------------------------------------
+workers,8,4,10
+1603363258
+1603363263
+
+ Performance counter stats for 'system wide':
+
+           1339.72 Joules power/energy-pkg/                                           
+           1141.45 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      52.042696314 seconds time elapsed
+
+1603363315
+--------------------------------------
+workers,8,5,10
+1603363318
+1603363323
+
+ Performance counter stats for 'system wide':
+
+           1452.67 Joules power/energy-pkg/                                           
+           1247.63 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      53.802962002 seconds time elapsed
+
+1603363377
+--------------------------------------
+workers,8,6,10
+1603363380
+1603363385
+
+ Performance counter stats for 'system wide':
+
+           1835.99 Joules power/energy-pkg/                                           
+           1608.65 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      59.002992773 seconds time elapsed
+
+1603363444
+--------------------------------------
+workers,8,7,10
+1603363447
+1603363452
+
+ Performance counter stats for 'system wide':
+
+           2585.32 Joules power/energy-pkg/                                           
+           2310.01 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      70.400623389 seconds time elapsed
+
+1603363523
+--------------------------------------
+workers,8,8,10
+1603363526
+1603363531
+
+ Performance counter stats for 'system wide':
+
+           2820.31 Joules power/energy-pkg/                                           
+           2516.64 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      76.698714700 seconds time elapsed
+
+1603363607
+--------------------------------------
+workers,8,9,10
+1603363610
+1603363616
+
+ Performance counter stats for 'system wide':
+
+           3339.57 Joules power/energy-pkg/                                           
+           2962.11 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      95.086905371 seconds time elapsed
+
+1603363711
+--------------------------------------
+workers,8,10,10
+1603363714
+1603363719
+
+ Performance counter stats for 'system wide':
+
+           3703.75 Joules power/energy-pkg/                                           
+           3271.76 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     108.807880990 seconds time elapsed
+
+1603363828
+--------------------------------------
+workers,8,11,10
+1603363831
+1603363836
+
+ Performance counter stats for 'system wide':
+
+           3773.62 Joules power/energy-pkg/                                           
+           3333.89 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     110.658416517 seconds time elapsed
+
+1603363946
+--------------------------------------
+workers,8,12,10
+1603363949
+1603363954
+
+ Performance counter stats for 'system wide':
+
+           4124.68 Joules power/energy-pkg/                                           
+           3647.06 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     120.439618182 seconds time elapsed
+
+1603364075
+--------------------------------------
+workers,9,1,10
+1603364078
+1603364083
+
+ Performance counter stats for 'system wide':
+
+           1167.73 Joules power/energy-pkg/                                           
+            981.41 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.221795861 seconds time elapsed
+
+1603364131
+--------------------------------------
+workers,9,2,10
+1603364134
+1603364139
+
+ Performance counter stats for 'system wide':
+
+           1268.30 Joules power/energy-pkg/                                           
+           1075.43 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      50.274414845 seconds time elapsed
+
+1603364190
+--------------------------------------
+workers,9,3,10
+1603364193
+1603364198
+
+ Performance counter stats for 'system wide':
+
+           1290.07 Joules power/energy-pkg/                                           
+           1096.51 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      50.778906946 seconds time elapsed
+
+1603364249
+--------------------------------------
+workers,9,4,10
+1603364252
+1603364257
+
+ Performance counter stats for 'system wide':
+
+           1400.47 Joules power/energy-pkg/                                           
+           1193.84 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      54.050030915 seconds time elapsed
+
+1603364311
+--------------------------------------
+workers,9,5,10
+1603364314
+1603364319
+
+ Performance counter stats for 'system wide':
+
+           1527.95 Joules power/energy-pkg/                                           
+           1313.00 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      56.283436886 seconds time elapsed
+
+1603364375
+--------------------------------------
+workers,9,6,10
+1603364378
+1603364383
+
+ Performance counter stats for 'system wide':
+
+           1907.56 Joules power/energy-pkg/                                           
+           1672.49 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      61.020959482 seconds time elapsed
+
+1603364444
+--------------------------------------
+workers,9,7,10
+1603364447
+1603364452
+
+ Performance counter stats for 'system wide':
+
+           2733.58 Joules power/energy-pkg/                                           
+           2449.99 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      72.093721358 seconds time elapsed
+
+1603364525
+--------------------------------------
+workers,9,8,10
+1603364528
+1603364533
+
+ Performance counter stats for 'system wide':
+
+           3059.65 Joules power/energy-pkg/                                           
+           2730.95 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      82.573186758 seconds time elapsed
+
+1603364615
+--------------------------------------
+workers,9,9,10
+1603364618
+1603364623
+
+ Performance counter stats for 'system wide':
+
+           3545.02 Joules power/energy-pkg/                                           
+           3131.16 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     104.378151558 seconds time elapsed
+
+1603364728
+--------------------------------------
+workers,9,10,10
+1603364731
+1603364736
+
+ Performance counter stats for 'system wide':
+
+           3757.46 Joules power/energy-pkg/                                           
+           3320.08 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     110.146360767 seconds time elapsed
+
+1603364846
+--------------------------------------
+workers,9,11,10
+1603364849
+1603364854
+
+ Performance counter stats for 'system wide':
+
+           3898.03 Joules power/energy-pkg/                                           
+           3443.06 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     114.394716341 seconds time elapsed
+
+1603364968
+--------------------------------------
+workers,9,12,10
+1603364971
+1603364976
+
+ Performance counter stats for 'system wide':
+
+           4831.59 Joules power/energy-pkg/                                           
+           4261.24 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     144.133677619 seconds time elapsed
+
+1603365121
+--------------------------------------
+workers,10,1,10
+1603365124
+1603365129
+
+ Performance counter stats for 'system wide':
+
+           1177.29 Joules power/energy-pkg/                                           
+            990.67 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      48.584334946 seconds time elapsed
+
+1603365178
+--------------------------------------
+workers,10,2,10
+1603365181
+1603365186
+
+ Performance counter stats for 'system wide':
+
+           1293.76 Joules power/energy-pkg/                                           
+           1098.29 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      51.042834574 seconds time elapsed
+
+1603365237
+--------------------------------------
+workers,10,3,10
+1603365240
+1603365245
+
+ Performance counter stats for 'system wide':
+
+           1301.29 Joules power/energy-pkg/                                           
+           1106.50 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      51.001366199 seconds time elapsed
+
+1603365296
+--------------------------------------
+workers,10,4,10
+1603365299
+1603365304
+
+ Performance counter stats for 'system wide':
+
+           1420.91 Joules power/energy-pkg/                                           
+           1215.84 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      53.344509854 seconds time elapsed
+
+1603365357
+--------------------------------------
+workers,10,5,10
+1603365360
+1603365365
+
+ Performance counter stats for 'system wide':
+
+           1574.65 Joules power/energy-pkg/                                           
+           1359.13 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      56.244814835 seconds time elapsed
+
+1603365422
+--------------------------------------
+workers,10,6,10
+1603365425
+1603365430
+
+ Performance counter stats for 'system wide':
+
+           2061.55 Joules power/energy-pkg/                                           
+           1818.63 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      62.831763782 seconds time elapsed
+
+1603365492
+--------------------------------------
+workers,10,7,10
+1603365495
+1603365500
+
+ Performance counter stats for 'system wide':
+
+           2937.13 Joules power/energy-pkg/                                           
+           2630.76 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      77.510001069 seconds time elapsed
+
+1603365578
+--------------------------------------
+workers,10,8,10
+1603365581
+1603365586
+
+ Performance counter stats for 'system wide':
+
+           3174.56 Joules power/energy-pkg/                                           
+           2826.39 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+      87.520989485 seconds time elapsed
+
+1603365674
+--------------------------------------
+workers,10,9,10
+1603365677
+1603365682
+
+ Performance counter stats for 'system wide':
+
+           3629.44 Joules power/energy-pkg/                                           
+           3203.83 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     107.352677915 seconds time elapsed
+
+1603365789
+--------------------------------------
+workers,10,10,10
+1603365792
+1603365797
+
+ Performance counter stats for 'system wide':
+
+           3888.02 Joules power/energy-pkg/                                           
+           3435.67 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     113.846426286 seconds time elapsed
+
+1603365911
+--------------------------------------
+workers,10,11,10
+1603365914
+1603365919
+
+ Performance counter stats for 'system wide':
+
+           4045.70 Joules power/energy-pkg/                                           
+           3572.96 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     118.770424298 seconds time elapsed
+
+1603366038
+--------------------------------------
+workers,10,12,10
+1603366041
+1603366046
+
+ Performance counter stats for 'system wide':
+
+           5363.58 Joules power/energy-pkg/                                           
+           4757.55 Joules power/energy-cores/                                         
+              0.00 Joules power/energy-gpu/                                           
+
+     152.353117142 seconds time elapsed
+
+1603366199
